@@ -4,7 +4,7 @@ Ready to take Telegram marketing to new heights? Our powerful Bulk DM & Image Se
 
 <h3 align="center">Price is simple 45$</h3>
 
-<h3 align="center">For intresting tools and scripts visit channel :- https://t.me/amphebian07</h3>
+<h3 align="center">For intresting tools and scripts visit channel :- https://t.me/tangopython</h3>
 
 📣 Key Features:
 ✨ Instantly reach thousands with personalized messages and images.
@@ -14,7 +14,7 @@ Ready to take Telegram marketing to new heights? Our powerful Bulk DM & Image Se
 
 🌟 Why Choose Our Sender?
 Unlock efficiency with a user-friendly interface. Save time, increase engagement, and personalize your outreach like never before!
-![Screenshot (3)](https://github.com/Amphebian07/Telegram-DM-Tool/assets/140254017/04b35271-a1f7-41b3-a394-7384cebf54d3)
+![Screenshot (3)](https://github.com/tangopython/Telegram-DM-Tool/assets/140254017/04b35271-a1f7-41b3-a394-7384cebf54d3)
 
 <p align="center">
   Follow Me On for more intresting contents
@@ -30,6 +30,6 @@ Unlock efficiency with a user-friendly interface. Save time, increase engagement
 📞 Dedicated support available. Supercharge your Telegram today!"
 
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/Amphebian07/Telegram-DM-Tool"><img alt="Cute Count" 
+<a href="https://github.com/tangopython/Telegram-DM-Tool"><img alt="Cute Count" 
 src="https://count.getloli.com/get/@Telegram-DM-Tool?theme=rule34" /></a>
 
